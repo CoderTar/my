@@ -10,3 +10,8 @@ export function gethomeMultidata() {
     })
 
 }
+
+export function gethomegoods(){
+
+    
+}
